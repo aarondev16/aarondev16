@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center"><b>Hi, I'm Aaron Campos</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=280px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<!--
-**aarondev16/aarondev16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Here are some ideas to get you started:
+<p align="center">🚀 Web Developer</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach out to me at: [aaronoso0704@gmail.com](mailto:aaronoso0704@gmail.com)
+
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarondev16/)
+
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarondev16&theme=material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarondev16&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondev16&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
