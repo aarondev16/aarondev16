@@ -17,11 +17,12 @@
 
 - 🎓 Computer Engineering Student
 - 💼 Professional Fullstack Developer
-- 🚀 Specialized in JavaScript/TypeScript ecosystem, both frontend and backend.
-- 🌱 Learning and improving my skills
+- 🚀 Specialized in JavaScript/TypeScript frontend and backend ecosystem
+- 🌱 Currently expanding my knowledge in Cloud Architecture and DevOps
+- 💡 Passionate about creating efficient and scalable solutions
+- 🤝 Open to collaborating on innovative projects
 
-
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <table>
@@ -52,12 +53,16 @@
   </table>
 </div>
 
-> **Note**: My full stack is showcased in my portfolio :)
+> 💼 Full Tech Stack:  Visit my portfolio for a comprehensive overview of my technical skills and projects :).
 
-## 🌟 Passions
+## 🌟 Beyond Coding
 
 ```javascript
-const aaron = ["🏀 Basketball","🎮 Gaming","🎵 Music"];
+const aaron = {
+    passions: ["🏀 Basketball", "🎮 Gaming", "🎵 Music"],
+    values: ["Continuous Learning", "Problem Solving", "Team Collaboration"],
+    goals: ["Master Web Developer", "Contribute to Open Source", "Build Solutions"]
+};
 ```
 
 ## 📊 GitHub Stats
@@ -66,18 +71,17 @@ const aaron = ["🏀 Basketball","🎮 Gaming","🎵 Music"];
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarondev16&theme=material-palenight&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Stats">
 </div>
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
 <div align="center">
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarondev16/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aaron-dev.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronoso0704@gmail.com)
-
 </div>
 
 ---
 
 <p align="center">
-    <i>Got an interesting project? Let's talk!</i>
+    <i>💡 Got an interesting project? Let's collaborate and build something amazing together! 🚀</i>
 </p>
