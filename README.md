@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
     <b>Hello! I'm Aaron Campos</b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
@@ -16,44 +16,20 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
-- 💼 Professional Fullstack Developer
+- 💼 Professional Fullstack Web Developer
 - 🚀 Specialized in JavaScript/TypeScript frontend and backend ecosystem
 - 🌱 Currently expanding my knowledge in Cloud Architecture and DevOps
 - 💡 Passionate about creating efficient and scalable solutions
 - 🤝 Open to collaborating on innovative projects
 
 ## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="30"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="30">  <img src="https://img.shields.io/badge/Astro-FF5A5F?style=flat&logo=astro&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="30"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black" height="30">
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Databases</th>
-      <th>Tools</th>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></td>
-      <td align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"></td>
-      <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun"></td>
-      <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"></td>
-      <td align="center"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black" alt="Linux"></td>
-    </tr>
-  </table>
-</div>
 
-> 💼 Full Tech Stack:  Visit my portfolio for a comprehensive overview of my technical skills and projects :).
+
+
+
+> 💼 Visit my portfolio for a comprehensive overview of my technical skills and projects 💻.
 
 ## 🌟 Beyond Coding
 
