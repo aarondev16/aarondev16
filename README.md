@@ -2,23 +2,18 @@
 <!--  -->
 <img align="right" width=280px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Web Developer 🚀***
 
-<p align="center">🚀 Web Developer</p>
+- 🎓 Computer Engineering student.
+- 💼 Backend Developer at a company.
+- 🔧 Skills: JavaScript ecosystem with frameworks and runtimes.
+- 🏀 Outside of code, I love playing basketball, gaming 🎮, and enjoying music 🎵.
 
-- 📫 Reach out to me at: [aaronoso0704@gmail.com](mailto:aaronoso0704@gmail.com)
-
-
-## 🌐 Connect with me
+🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarondev16/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aaron-dev.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronoso0704@gmail.com)
 
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarondev16&theme=material-palenight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarondev16&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondev16&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aarondev16&theme=material-palenight&hide_total_contributions=false&hide_current_streak=true&hide_longest_streak=true)
 
