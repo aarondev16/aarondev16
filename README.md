@@ -43,8 +43,9 @@ const aaron = {
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarondev16&theme=material-palenight&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarondev16&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 </div>
+
 
 ## 📫 Let's Connect!
 
