@@ -61,3 +61,5 @@ const aaron = {
 <p align="center">
     <i>💡 Got an interesting project? Let's collaborate and build something amazing together! 🚀</i>
 </p>
+
+> ⚠️ **Note:** A large part of my commit history is linked to corporate email accounts provided by the companies I've worked for, so many of my contributions don't appear under this GitHub profile.
